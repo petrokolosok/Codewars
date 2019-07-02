@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7da0cf09-4fb9-4ed5-a956-b61ec65e4843" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/javaScript/kuy_6_Solutions/new.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaScript/kuy_7_Solutions/Alphabet symmetry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Random case.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/sql_kyu_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/kuy_6_Solutions/Create Phone Number.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kuy_7_Solutions/Get list sum recurcively 7kyu.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_7_Solutions/Get list sum recurcively 7kyu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/Sentence Smash.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Sentence Smash.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaScript/kuy_7_Solutions/Get list sum recurcively 7kyu.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor" />
@@ -82,9 +72,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javaScript/kuy_7_Solutions/Credit card issuer checking.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaScript/kuy_6_Solutions/Create Phone Number.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -115,6 +118,8 @@
         <option value="$PROJECT_DIR$/sql/sql_kyu_8.js" />
         <option value="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Random case.js" />
         <option value="$PROJECT_DIR$/javaScript/kuy_7_Solutions/Alphabet symmetry.js" />
+        <option value="$PROJECT_DIR$/javaScript/kuy_7_Solutions/Credit card issuer checking.js" />
+        <option value="$PROJECT_DIR$/javaScript/kuy_6_Solutions/Create Phone Number.js" />
       </list>
     </option>
   </component>
@@ -241,14 +246,20 @@
       <option name="project" value="LOCAL" />
       <updated>1561788616146</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added new solution kuy_7">
+      <created>1562007128525</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562007128527</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1400" height="812" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26435935" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26435935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -262,7 +273,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26542324" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26542324" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32855093" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -326,7 +337,8 @@
     <MESSAGE value="added text to readme file" />
     <MESSAGE value="created directories" />
     <MESSAGE value="added new solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new solution" />
+    <MESSAGE value="added new solution kuy_7" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new solution kuy_7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README1.md" />
@@ -389,7 +401,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javaScript/kuy_7_Solutions/Credit card issuer checking.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/kuy_6_Solutions/Create Phone Number.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
