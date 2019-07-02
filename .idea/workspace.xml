@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7da0cf09-4fb9-4ed5-a956-b61ec65e4843" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kuy_8_Solutions/Simple multiplication.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuy_8_Solutions/Sleigh Authentication.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuy_8_Solutions/Student's Final Grade.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuy_8_Solutions/The Feast of Many Beasts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuy_8_Solutions/Type of sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/kuy_6_Solutions/Create Phone Number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/kuy_6_Solutions/new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/kuy_7_Solutions/Alphabet symmetry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/kuy_7_Solutions/Credit card issuer checking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Random case.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Who is going to pay the wall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/sql_kyu_8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_7_Solutions/Get list sum recurcively 7kyu.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_7_Solutions/Get list sum recurcively 7kyu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/Capitalization and Mutability.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Capitalization and Mutability.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/Convert a string to an array.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Convert a string to an array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/Determine offspring sex based on genes XX and XY chromosomes.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Determine offspring sex based on genes XX and XY chromosomes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/How satisfied are you with this kata?.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/How satisfied are you with this kata?.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/If you can't sleep, just count sheep!!.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/If you can't sleep, just count sheep!!.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/Sentence Smash.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Sentence Smash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/Simple multiplication.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Simple multiplication.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/Sleigh Authentication.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Sleigh Authentication.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/Student's Final Grade.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Student's Final Grade.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/Switch it Up!.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Switch it Up!.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/The Feast of Many Beasts.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/The Feast of Many Beasts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuy_8_Solutions/Type of sum.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/kuy_8_Solutions/Type of sum.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,80 +37,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Convert a string to an array.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Determine offspring sex based on genes XX and XY chromosomes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" selection-start-column="33" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/How satisfied are you with this kata?.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/The Feast of Many Beasts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Simple multiplication.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Student's Final Grade.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Type of sum.js">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Sleigh Authentication.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Switch it Up!.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -113,7 +78,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="kolosok" />
       </map>
     </option>
   </component>
@@ -131,6 +96,7 @@
         <option value="$PROJECT_DIR$/kuy_8_Solutions/Student's Final Grade.js" />
         <option value="$PROJECT_DIR$/kuy_8_Solutions/Type of sum.js" />
         <option value="$PROJECT_DIR$/kuy_8_Solutions/Sleigh Authentication.js" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -146,7 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -157,12 +122,36 @@
             <path>
               <item name="CodewarsSolutions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="Prod" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="javaScript" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CodewarsSolutions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Prod" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="javaScript" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kuy_6_Solutions" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CodewarsSolutions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Prod" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="javaScript" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kuy_7_Solutions" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CodewarsSolutions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Prod" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="javaScript" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="kuy_8_Solutions" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CodewarsSolutions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Prod" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="sql" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -175,11 +164,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/kuy_7_Solutions" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kuy_7_Solutions" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -226,14 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561788371754</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added new solutions">
+      <created>1561959464516</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561959464516</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="903" y="256" width="1400" height="815" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26435935" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27172312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -247,9 +243,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26556018" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4992636" visible="true" weight="0.26417705" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32955974" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3294964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -304,16 +300,13 @@
     <MESSAGE value="created README file" />
     <MESSAGE value="added text to readme file" />
     <MESSAGE value="created directories" />
-    <option name="LAST_COMMIT_MESSAGE" value="created directories" />
+    <MESSAGE value="added new solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new solutions" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README1.md" />
-    <entry file="file://$PROJECT_DIR$/kuy_7_Solutions/Get list sum recurcively 7kyu.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/kuy_7_Solutions/Get list sum recurcively 7kyu.js" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -335,22 +328,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Capitalization and Mutability.js">
+    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Capitalization and Mutability.js" />
+    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/If you can't sleep, just count sheep!!.js" />
+    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Convert a string to an array.js" />
+    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Determine offspring sex based on genes XX and XY chromosomes.js" />
+    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/How satisfied are you with this kata?.js" />
+    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/The Feast of Many Beasts.js" />
+    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Simple multiplication.js" />
+    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Student's Final Grade.js" />
+    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Type of sum.js" />
+    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Sleigh Authentication.js" />
+    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Switch it Up!.js" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="405">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/If you can't sleep, just count sheep!!.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kuy_8_Solutions/Convert a string to an array.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
